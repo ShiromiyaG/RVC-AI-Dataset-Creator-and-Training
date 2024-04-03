@@ -13,7 +13,6 @@ Performs the complete process of creating datasets and training RVC models
 - Separates vocals and removes backing vocals and Echo/Reverb
 - Create the dataset and make it ready for training
 - Download music from Deezer (Premium account required) and YouTube
-- Make Spectrogram ensemble
 
 ## Planned Features
 - Find a way to install dependencies faster (If you know how, please open an issue or a pull request)
