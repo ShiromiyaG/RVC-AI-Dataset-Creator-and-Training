@@ -5,7 +5,7 @@ Performs the complete process of creating datasets and training RVC models
 
 | **RVC_CLI** |
 |:---:|
-| English Version <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Cover-Maker/blob/main/RVC_AI_Cover_Maker.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> <br> </a> Versão PT-BR <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Cover-Maker/blob/main/RVC_AI_Cover_Maker.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+| English Version <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator_and_Training.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> <br> </a> Versão PT-BR <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator_and_Training_PT_BR.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
 </div>
 
