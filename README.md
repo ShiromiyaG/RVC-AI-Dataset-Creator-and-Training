@@ -25,3 +25,4 @@ Performs the complete process of creating datasets and training RVC models
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) by [Anjok07](https://github.com/Anjok07)
 - [Music Source Separation Universal Training Code](https://github.com/ZFTurbo/Music-Source-Separation-Training) by [ZFTurbo](https://github.com/ZFTurbo)
+- [RVC-SVC-Best-Dataset-Maker](https://github.com/HarryAJMK418/RVC-SVC-Best-Dataset-Maker) by [HarryAJMK418](https://github.com/HarryAJMK418)
