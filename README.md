@@ -3,7 +3,7 @@
 # RVC AI Dataset Creator and Training
 Performs the complete process of creating datasets and training RVC models
 
-| **RVC_CLI** |
+| **Colabs** |
 |:---:|
 | English Version <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator_and_Training.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> <br> </a> Versão PT-BR <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator_and_Training_PT_BR.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
@@ -16,7 +16,6 @@ Performs the complete process of creating datasets and training RVC models
 
 ## Planned Features
 - Find a way to install dependencies faster (If you know how, please open an issue or a pull request)
-- Make a version using [Retrieval-based-Voice-Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion) by [RVC-Project](https://github.com/RVC-Project)
 
 ## Credits
 - [Ultimate Vocal Remover API](https://github.com/NextAudioGen/ultimatevocalremover_api) by [NextAudioGen](https://github.com/NextAudioGen)
