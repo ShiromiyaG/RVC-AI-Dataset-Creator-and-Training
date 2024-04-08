@@ -394,5 +394,5 @@ def choose_pretrain(model_name, sample_rate):
         
 @click.command("japonese_hubert")
 def japonese_hubert(): 
-    subprocess.run(["wget","-O", "hubert_base.pt", "https://huggingface.co/rinna/japanese-hubert-base/resolve/main/fairseq/model.pt"])
+    subprocess.run(["wget","-O", "/content/RVC_CLI/hubert_base.pt", "https://huggingface.co/rinna/japanese-hubert-base/resolve/main/fairseq/model.pt"])
     
