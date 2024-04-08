@@ -1,6 +1,7 @@
 <div align="center">
 
-# RVC AI Dataset Creator and Training
+# ![RVC AI Dataset Maker](https://github.com/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/assets/86894155/102a136b-c237-495c-9797-c7f567bf5cf3)
+
 Performs the complete process of creating datasets and training RVC models
 
 | **Colabs** |
@@ -23,3 +24,4 @@ Performs the complete process of creating datasets and training RVC models
 - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) by [Anjok07](https://github.com/Anjok07)
 - [Music Source Separation Universal Training Code](https://github.com/ZFTurbo/Music-Source-Separation-Training) by [ZFTurbo](https://github.com/ZFTurbo)
 - [RVC-SVC-Best-Dataset-Maker](https://github.com/HarryAJMK418/RVC-SVC-Best-Dataset-Maker) by [HarryAJMK418](https://github.com/HarryAJMK418)
+- [Freepik](https://www.freepik.com) for the [image](https://www.freepik.com/free-psd/futuristic-cyber-monday-web-template_19966151.htm#fromView=search&page=1&position=3&uuid=d4a28e77-dc6f-4ec3-9c37-3525afc311e0)
