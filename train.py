@@ -270,11 +270,26 @@ def extract_train(model_name, rvc_version, f0method, hop_length, sampling_rate, 
 @click.command("training")
 @click.argument('--autosave')
 @click.argument('--model_name')
+@click.argument('--rvc_version')
+@click.argument('--overtraining_detector')
+@click.argument('--overtraining_threshold')
+@click.argument('--save_every_epoch')
+@click.argument('--save_only_latest')
+@click.argument('--save_every_weights')
+@click.argument('--total_epoch')
+@click.argument('--sampling_rate')
+@click.argument('--batch_size')
+@click.argument('--gpu')
+@click.argument('--pitch_guidance')
+@click.argument('--pretrained')
+@click.argument('--custom_pretrained')
+@click.argument('--g_pretrained')
+@click.argument('--d_pretrained')
 @click.argument('--autosave_folder')
 @click.argument('--delete_old_weight_and_G_D_files')
-def training(autosave, model_name, autosave_folder, delete_old_weight_and_G_D_files):
+def training(autosave, model_name, rvc_version, overtraining_detector, overtraining_threshold, save_every_epoch, save_only_latest, save_every_weights, total_epoch, sampling_rate, batch_size, gpu, pitch_guidance, pretrained, custom_pretrained, g_pretrained, d_pretrained, autosave_folder, delete_old_weight_and_G_D_files):
     if autosave:
-        p1 = Process(target = train)
+        p1 = Process(target = train, args=(model_name, rvc_version, overtraining_detector, overtraining_threshold, save_every_epoch, save_only_latest, save_every_weights, total_epoch, sampling_rate, batch_size, gpu, pitch_guidance, pretrained, custom_pretrained, g_pretrained, d_pretrained))
         p1.start()
         p2 = Process(target = backup, args=(model_name, autosave_folder, delete_old_weight_and_G_D_files, p1))
         p2.start()
@@ -376,3 +391,8 @@ def choose_pretrain(model_name, sample_rate):
                 "/content/pretrained_v2/G_Snowie-X-Rin_40k.pth"
                 "/content/pretrained_v2/D_Snowie-X-Rin_40k.pth" ]
             return pretrained
+        
+@click.command("japonese_hubert")
+def japonese_hubert(): 
+    subprocess.run(["wget","-O", "hubert_base.pt", "https://huggingface.co/rinna/japanese-hubert-base/resolve/main/fairseq/model.pt"])
+    
