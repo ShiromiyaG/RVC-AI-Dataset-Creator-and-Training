@@ -14,9 +14,6 @@ Performs the complete process of creating datasets and training RVC models
 - Create the dataset and make it ready for training
 - Download music from Deezer (Premium account required) and YouTube
 
-## Planned Features
-- Find a way to install dependencies faster (If you know how, please open an issue or a pull request)
-
 ## Credits
 - [Ultimate Vocal Remover API](https://github.com/NextAudioGen/ultimatevocalremover_api) by [NextAudioGen](https://github.com/NextAudioGen)
 - [RVC_CLI](https://github.com/blaise-tk/RVC_CLI) by [blaise-tk](https://github.com/blaise-tk)
