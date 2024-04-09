@@ -1,7 +1,6 @@
 <div align="center">
 
-# ![RVC AI Dataset Maker-min](https://github.com/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/assets/86894155/0a4673ca-db46-4f1f-aa4a-4b813279057d)
-
+# <a href="https://github.com/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training" target="_blank"><img src="https://github.com/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/v2/assets/RVC%20AI%20Dataset%20Maker-min.png" alt="RVCAIDatasetCreatorandTraining"></a>
 Performs the complete process of creating datasets and training RVC models
 
 | **Colabs** |
