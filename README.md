@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![RVC AI Dataset Maker](https://github.com/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/assets/86894155/102a136b-c237-495c-9797-c7f567bf5cf3)
+# ![RVC AI Dataset Maker-min](https://github.com/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/assets/86894155/0a4673ca-db46-4f1f-aa4a-4b813279057d)
 
 Performs the complete process of creating datasets and training RVC models
 
