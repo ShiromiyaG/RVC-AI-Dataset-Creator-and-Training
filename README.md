@@ -15,6 +15,7 @@ Performs the complete process of creating datasets and training RVC models
 - Download music from Deezer (Premium account required) and YouTube
 
 ## Credits
+- [Audio Separator](https://github.com/karaokenerds/python-audio-separator) by [Andrew Beveridge](https://github.com/beveradb)
 - [Ultimate Vocal Remover API](https://github.com/NextAudioGen/ultimatevocalremover_api) by [NextAudioGen](https://github.com/NextAudioGen)
 - [RVC_CLI](https://github.com/blaise-tk/RVC_CLI) by [blaise-tk](https://github.com/blaise-tk)
 - [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) by [OrfiTeam](https://github.com/OrfiTeam)
