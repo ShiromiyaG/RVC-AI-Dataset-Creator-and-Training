@@ -3,9 +3,9 @@
 # <a href="https://github.com/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training" target="_blank"><img src="https://github.com/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/v2/assets/RVC%20AI%20Dataset%20Maker-min.png" alt="RVCAIDatasetCreatorandTraining"></a>
 Performs the complete process of creating datasets and training RVC models
 
-| **Colabs** |
-|:---:|
-| English Version <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator_and_Training.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> <br> </a> Versão PT-BR <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator_and_Training_PT_BR.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+| **Training and Dataset (Not Working)** | **Only Dataset (Fast Install)** |
+|:---:|:---:|
+| English <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator_and_Training.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br> PT-BR <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator_and_Training_PT_BR.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | English <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br> PT-BR <br> <a target="_blank" href="https://colab.research.google.com/github/ShiromiyaG/RVC-AI-Dataset-Creator-and-Training/blob/main/RVC_AI_Dataset_Creator_PT_BR.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |
 
 </div>
 
